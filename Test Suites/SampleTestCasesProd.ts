@@ -16,4 +16,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login Test Case</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>16545dd6-68ae-42dc-9713-a6134e862a71</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Fetch feed items</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
