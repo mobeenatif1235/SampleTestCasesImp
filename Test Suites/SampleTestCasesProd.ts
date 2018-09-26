@@ -22,4 +22,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Fetch feed items</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>ddd095c9-a213-42c5-abe1-21d11af14825</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Public and private groups count</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
